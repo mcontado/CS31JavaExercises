@@ -1,4 +1,4 @@
-package assignments;
+package labs;
 
 /**
 This program allows the user to order a pizza
